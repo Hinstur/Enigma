@@ -1,4 +1,2 @@
-Diffega
-=======
-
-Hacked client for Minecraft, skiddies come at meh
+Used to be a hacked client, now is an abandoned project with no code ever added to it...
+Thank you Searge <3
